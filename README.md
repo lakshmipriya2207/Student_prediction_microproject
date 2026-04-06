@@ -4,7 +4,7 @@
 This project predicts the most suitable career path for students based on their skills using a Deep Learning model. It analyzes multiple intelligence features such as linguistic, logical, interpersonal, and more to recommend a job profession.
 
 # Technologies Used
-* Python 🐍
+* Python 
 * TensorFlow / Keras 
 * Pandas & NumPy 
 * Scikit-learn 
